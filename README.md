@@ -26,7 +26,7 @@ lncRNA_king_penguin.fa
 ### Emperor penguin: 
 lncRNA_emperor_penguin.fa
 
-## Significant tissue-enhanced transcripts 
+## Significant tissue-enhanced or tissue-inhibited transcripts 
 Data for both species are in the directory: tissue-enhanced-inhibited-outputs
 
 This contains significant tissue-enhanced and -inhibited transcripts for the brain, kidney, liver, muscle, skin.
@@ -35,5 +35,11 @@ Enhanced transcripts have a positive log2fold change. Inhibited transcripts have
 
 ## Unique (i.e. species-specific) tissue-enhanced transcripts
 
-Data for both species are in the directory 
+Data for both species are in the directory Unique-tissue-enhanced-outputs
+
+This contains significant tissue-enhanced transcripts per species - they contain the gene symbol for the annotation
+
+## Transcriptome annotations
+
+Contains the Trinotate .tsv file for the annotation of both species transcriptomes
 
