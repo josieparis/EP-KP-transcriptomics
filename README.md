@@ -20,6 +20,10 @@ ERS16201405 - ERS16201453 (Emperor penguin)
 
 ERS16201454 - ERS16201503 (King penguin)
 
+## Transcriptome annotations
+
+Contains the Trinotate .tsv file for the annotation of both the de novo transcriptomes of the Emperor penguin and the King penguin
+
 ## Long non-coding RNA datasets
 ### King penguin
 lncRNA_king_penguin.fa
@@ -29,7 +33,7 @@ lncRNA_emperor_penguin.fa
 ## Significant tissue-enhanced or tissue-inhibited transcripts 
 Data for both species are in the directory: tissue-enhanced-inhibited-outputs
 
-This contains significant tissue-enhanced and -inhibited transcripts for the brain, kidney, liver, muscle, skin.
+This contains significant tissue-enhanced and -inhibited transcripts
 
 Enhanced transcripts have a positive log2fold change. Inhibited transcripts have a nehative log2fold change.
 
@@ -37,9 +41,15 @@ Enhanced transcripts have a positive log2fold change. Inhibited transcripts have
 
 Data for both species are in the directory Unique-tissue-enhanced-outputs
 
-This contains significant tissue-enhanced transcripts per species - they contain the gene symbol for the annotation
+This contains significant tissue-enhanced transcripts per species - they contain the gene symbol for the annotation.
 
-## Transcriptome annotations
+## Differentially Expressed Genes (DEGs)
 
-Contains the Trinotate .tsv file for the annotation of both species transcriptomes
+Contains the per tissue DEGs between the Emperor Penguin and King penguin. 
+
+NB:
+
+Overexpressed genes in the Emperor penguin have a negative log2fold change
+
+Underexpressed genes in the Emperor penguin have a positive log2fold change
 
