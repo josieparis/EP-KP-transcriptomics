@@ -26,6 +26,14 @@ lncRNA_king_penguin.fa
 ### Emperor penguin: 
 lncRNA_emperor_penguin.fa
 
+## Significant tissue-enhanced transcripts 
+Data for both species are in the directory: tissue-enhanced-inhibited-outputs
 
-## Full list of Differentially Expressed Genes (DEGs)
+This contains significant tissue-enhanced and -inhibited transcripts for the brain, kidney, liver, muscle, skin.
+
+Enhanced transcripts have a positive log2fold change. Inhibited transcripts have a nehative log2fold change.
+
+## Unique (i.e. species-specific) tissue-enhanced transcripts
+
+Data for both species are in the directory 
 
