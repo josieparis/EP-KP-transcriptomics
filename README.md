@@ -3,13 +3,10 @@
 <a href="https://zenodo.org/doi/10.5281/zenodo.10218728"><img src="https://zenodo.org/badge/717413834.svg" alt="DOI"></a>
 
 
-Additional Data for: 
+Additional Data for:
+
+
 <img width="632" alt="Screenshot 2024-11-08 at 16 59 37" src="https://github.com/user-attachments/assets/3cdff016-0629-4e07-b175-3522cca06f26">
-
-### Gene Expression Shifts in Emperor Penguin Adaptation to the Extreme Antarctic Environment
-
-Josephine R. Paris*, Flávia A. N. Fernandes*, Federica Pirri, Samuele Greco, Marco Gerdol, Alberto Pallavicini, Marine Benoiste, Clément Cornec, Lorenzo Zane, Brian Haas, Céline Le Bohec, Emiliano Trucchi
-
 
 
 
